@@ -1,0 +1,19 @@
+- [ ![csapp_ocr.pdf](../assets/csapp_ocr_1672674033654_0.pdf) ]
+-
+- start ((63b2fd27-d4b0-43b8-b0c9-ce4013aede80))
+-
+- Amdahl定律 计算加速比，无穷时的特例
+	- ((63b4a3fc-60a3-4a8f-a33d-a68eb2caa6d9))
+	- ((63b2fd6b-b0ac-4773-8afb-875f7a586c94))
+	- ((63b2fda1-3d72-4da8-8fd3-87385687723e))
+-
+- ((63b4a2f9-c9bc-4335-888c-ca11a7c814a9)) ((63b4a4df-adb6-4e75-bcb5-60fbc406e97e))
+	- A
+		- $S=T_{old}/T_{new}=\frac{1}{0.4+0.6 \frac{2}{3}}=1.25\times$
+	- B
+		- $1.67\times=\frac{1}{0.6}=\frac{1}{0.4+0.6\times \frac{1}{3}}$
+		- $k=3, v=300kph$
+-
+- 计算机系统抽象层次
+	- ((63b2fdca-d65a-41e8-aba2-f40d8bbde235))
+-
